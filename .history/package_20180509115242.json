@@ -1,0 +1,16 @@
+{
+  "name": "junjun",
+  "version": "1.0.0",
+  "description": "webpack-demo",
+  "private":true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "author": "junjun",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.8.1",
+    "webpack-cli": "^2.1.3"
+  }
+}
